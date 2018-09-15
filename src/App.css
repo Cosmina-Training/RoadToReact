@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  margin: 0.7rem 0.7rem;
+  display: inline-block;
+}
+
+form{
+  margin-top: 1rem;
+  padding: 0.5rem;
+  padding-bottom: 0;
+
+}
+
